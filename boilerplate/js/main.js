@@ -1,7 +1,7 @@
 // adaptedTutorial.js
 // This script loads ChicagoCrimeCSV2.geojson, maps each feature as a styled circle marker, and attaches a popup with all properties.
 
-// 1. Initialize the map centered globally
+// 1. Initialize the map centered globally on Chicago Crime Data
 var map = L.map('map').setView([41.791815984698715, -87.79712747210827], 15);
 
 // 2. Add OpenStreetMap tile layer
@@ -13,7 +13,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // 3. Define custom marker options for circle markers
 var geojsonMarkerOptions = {
     radius: 8,
-    fillColor: "#ff7800",
+    fillColor: "#ff7805",
     color: "#000",
     weight: 1,
     opacity: 1,
