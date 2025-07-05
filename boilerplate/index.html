@@ -16,7 +16,7 @@
             crossorigin=""/>
 
         <style>
-            #map {     height: 900px;    
+            #map {     height: 800px;    
                         width: 80%;
                         display: inline-block;}
         </style>
@@ -27,9 +27,12 @@
     </head>
 
     <body>
+        <h1 style="text-align:center;margin-top:18px;margin-bottom:10px;font-size:2.1em;font-family:sans-serif;letter-spacing:0.5px;">Comparing Rust Belt and Sun Belt Major City Populations over Time</h1>
         <!--put your initial page content here-->
-        <div id="map"></div>
-        <div id="panel"></div>
+        <div style="display:flex;flex-direction:row;align-items:flex-start;width:100%;">
+            <div id="map" style="flex:1 1 80%;"></div>
+            <div id="panel" style="flex:0 0 320px;min-width:260px;max-width:400px;margin-left:18px;"></div>
+        </div>
 
         <!--you can also use this space for internal scripts;
         place these within <script> tags-->
