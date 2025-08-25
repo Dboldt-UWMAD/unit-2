@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+            <title></title>
+
+        <!--put your external stylesheet links here-->
+        <link rel="stylesheet" href="css/style.css">
+        <!--[if IE<9]>
+            <link rel="stylesheet" href="css/style.ie.css">
+        <![endif]-->
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+            integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+            crossorigin=""/>
+
+         <!--All styles have been moved to style.css-->
+        
+    </head>
+
+    <body>
+        <h1 class="page-header">Job Opportunities Finder</h1>
+        
+        <!-- Filters Section - Top Left -->
+        <div id="filters-container">
+            <div class="filters-box">
+                <h3 class="filters-title">Filter Jobs</h3>
+                <div class="filters-group">
+                    <div class="filter-item">
+                        <label for="state-filter" class="filter-label">State:</label>
+                        <select id="state-filter" class="filter-select">
+                            <option value="">All States</option>
+                            <!-- States will be populated dynamically -->
+                        </select>
+                    </div>
+                    <div class="filter-item">
+                        <label for="job-type-filter" class="filter-label">Job Type:</label>
+                        <select id="job-type-filter" class="filter-select filter-select-small">
+                            <option value="">All Types</option>
+                            <option value="Full Time">Full Time</option>
+                            <option value="Internship">Internship</option>
+                            <!-- Add other types if needed -->
+                        </select>
+                    </div>
+                    <div class="filter-item">
+                        <label for="salary-filter" class="filter-label">Salary:</label>
+                        <div class="salary-wrapper">
+                            <span id="salary-min-display" class="salary-display">$40k</span>
+                            <input type="range" id="salary-filter" min="40000" max="150000" step="5000" value="40000" class="salary-range">
+                            <span id="salary-max-display" class="salary-display">$150k+</span>
+                        </div>
+                    </div>
+                    <div class="filter-item">
+                        <button id="clear-filters" class="clear-filters-btn">Clear Filters</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!--put your initial page content here-->
+        <div style="display:flex;flex-direction:row;align-items:flex-start;width:100%;">
+            <div id="map"></div>
+            <div id="panel" style="margin-left:18px;"></div>
+        </div>
+
+        <!--you can also use this space for internal scripts;
+        place these within <script> tags-->
+
+        <!--put your external script links here-->
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+        <script type="text/javascript" src="lib/leaflet%20(1)/leaflet-src.js"></script>
+        <!-- Map 1-->
+        <!-- <script type="text/javascript" src="js/quickstartTutorial.js"></script> -->
+         <!--<script type="text/javascript" src="js/geojsonTutorial.js"></script>-->
+
+         <!--<script type="text/javascript" src="js/adaptedtutorial.js"></script>-->
+         <script type="text/javascript" src="js/main.js"></script>
+
+        
+    </body>
+</html>

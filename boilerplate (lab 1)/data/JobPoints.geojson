@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.367055266999955,
+          42.26781876900003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Crystal Lake",
+        "State": "IL",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3435708&req_loc=850686&&cust_sort1=-1&&nohd",
+        "X": -88.367055267267006,
+        "Y": 42.267818768634001,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Urban Planner II",
+        "StartingSalary": 75000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.201868574999935,
+          41.79688531100004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Naperville",
+        "State": "IL",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3435708&req_loc=850687&&cust_sort1=-1&&nohd",
+        "X": -88.201868575160006,
+        "Y": 41.796885310577998,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Urban Planner II",
+        "StartingSalary": 75000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.839604060999989,
+          41.981118620000075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Chicago",
+        "State": "IL",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3435708&req_loc=850685&&cust_sort1=-1&&nohd",
+        "X": -87.839604061022001,
+        "Y": 41.981118620365002,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Urban Planner II",
+        "StartingSalary": 75000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.884531229999936,
+          42.201574870000059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Bannockburn",
+        "State": "IL",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3435708&req_loc=850684&&cust_sort1=-1&&nohd",
+        "X": -87.884531229679993,
+        "Y": 42.201574869547997,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Urban Planner II",
+        "StartingSalary": 75000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.790443222999954,
+          29.785034554000049
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Katy",
+        "State": "TX",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3435708&req_loc=850683&&cust_sort1=-1&&nohd",
+        "X": -95.790443222872,
+        "Y": 29.785034553978999,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Urban Planner II",
+        "StartingSalary": 75000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.080021991999956,
+          26.726682227000026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "West Palm Beach",
+        "State": "FL",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3479816&req_loc=967511&&cust_sort1=-1&&nohd",
+        "X": -80.080021992363001,
+        "Y": 26.726682226512001,
+        "JobType": "Internship",
+        "Manager": "No",
+        "Position_Title": "Construction Engineering Intern",
+        "StartingSalary": 47840
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.375609329999975,
+          28.545658439000078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Orlando",
+        "State": "FL",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3483234&req_loc=966933&&cust_sort1=-1&&nohd",
+        "X": -81.375609329610995,
+        "Y": 28.545658438720999,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Water Resources Engineer I",
+        "StartingSalary": 74000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.367055266999955,
+          42.26781876900003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Crystal Lake",
+        "State": "IL",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3301144&req_loc=585839&&cust_sort1=-1&&nohd",
+        "X": -88.367055267267006,
+        "Y": 42.267818768634001,
+        "JobType": "Full Time",
+        "Manager": "Yes",
+        "Position_Title": "Information Technology Operations Manager",
+        "StartingSalary": 105000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.017421526999954,
+          43.029500625000026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Milwaukee",
+        "State": "WI",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3421484&req_loc=819169&&cust_sort1=-1&&nohd",
+        "X": -88.017421526842995,
+        "Y": 43.029500624644001,
+        "JobType": "Full Time",
+        "Manager": "Yes",
+        "Position_Title": "Transportation Engineer Project Manager",
+        "StartingSalary": 100000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.790443222999954,
+          29.785034554000049
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Katy",
+        "State": "TX",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3479074&req_loc=944028&&cust_sort1=-1&&nohd",
+        "X": -95.790443222872,
+        "Y": 29.785034553978999,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Graduate Engineer",
+        "StartingSalary": 72000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.583843390999959,
+          29.993430879000073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Houston",
+        "State": "TX",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3479074&req_loc=944027&&cust_sort1=-1&&nohd",
+        "X": -95.583843391195003,
+        "Y": 29.993430878963999,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Graduate Engineer",
+        "StartingSalary": 72000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.201868574999935,
+          41.79688531100004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Naperville",
+        "State": "IL",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3425298&req_loc=824693&&cust_sort1=-1&&nohd",
+        "X": -88.201868575160006,
+        "Y": 41.796885310577998,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Senior Water System Engineer",
+        "StartingSalary": 90000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.583843390999959,
+          29.993430879000073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "Brand": "Baxter & Woodman, Inc.",
+        "City": "Houston",
+        "State": "TX",
+        "LINK": "https://baxterwoodman.hrmdirect.com/employment/job-opening.php?req=3425354&req_loc=824762&&cust_sort1=-1&&nohd",
+        "X": -95.583843391195003,
+        "Y": 29.993430878963999,
+        "JobType": "Full Time",
+        "Manager": "No",
+        "Position_Title": "Water Wastewater Engineer",
+        "StartingSalary": 90000
+      }
+    }
+  ]
+}
